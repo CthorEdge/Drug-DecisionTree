@@ -1,4 +1,5 @@
 # Drug-DecisionTree
+A brief explanation on Decision Tree Algorithm and also its implementation on drug classification dataset
 
 # What is Decision Tree?
 - One of the easiest and popular machine learning algorithms to understand and interpret
